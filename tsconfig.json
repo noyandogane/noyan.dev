@@ -28,6 +28,6 @@
     "**/*.tsx",
     "**/*.cjs",
     "**/*.mjs"
-  ],
+, "src/pages/Shapes.js", "src/pages/use-smooth-transform.js", "src/components/Noyan.js"  ],
   "exclude": ["node_modules"]
 }

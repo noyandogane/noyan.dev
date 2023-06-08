@@ -2,10 +2,11 @@ import Image from "next/image";
 const Github = () => {
   return (
     <a
-      href="github.com/noyandogane"
-      className=" flex flex-row rounded-md   text-white shadow-md hover:bg-primary-focus"
+      href="https://github.com/noyandogane"
+      className=" flex flex-row rounded-md items-center  text-white shadow-md hover:bg-primary-focus"
     >
       <Image
+        className="m-1"
         src="/github-mark-white.png"
         alt={""}
         width={25}
