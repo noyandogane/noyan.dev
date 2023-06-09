@@ -134,9 +134,11 @@ export default function Noyan() {
             transform: "translateZ(0)",
             fontWeight: 700,
             zIndex: 1,
+            position: "relative",
+            top: "10px",
           }}
         >
-          <span className="decoration-6 bg-gradient-to-r from-blue-500 via-purple-500 to-red-500 bg-clip-text text-transparent underline decoration-white underline-offset-1">
+          <span className="decoration-6 bg-gradient-to-r from-blue-500 via-purple-500 to-red-500 bg-clip-text text-transparent underline decoration-white underline-offset-2">
             noyan
           </span>
         </motion.div>

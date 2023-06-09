@@ -13,7 +13,7 @@ export default function Hero() {
       transition={{ duration: 0.5 }}
       css = {{
       position:"relative",
-      top: "0px",
+      top: "320px",
 
 
       
